@@ -1,0 +1,14 @@
+# Demo/example
+.DS_Store
+*.zip
+*.gz
+*.pdf
+log/*.log
+log/*.log.[0-9]
+MySQLScripts/005-002-s/*.*
+MySQLScripts/006-002-s/*.*
+MySQLScripts/Online Courses Taken/*.*
+*.mp3
+*.mp4
+sakila.sql
+access.log
