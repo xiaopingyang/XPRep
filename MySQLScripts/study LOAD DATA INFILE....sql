@@ -32,4 +32,3 @@ SELECT empno,ename,job INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploa
   FROM test.employee;
 
 select * from employee;
-truncate employee;
